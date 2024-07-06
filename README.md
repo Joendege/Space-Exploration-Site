@@ -11,6 +11,7 @@ I developed a Space Exploration Site where i used diffrent HTML tags and CSS to 
 - img tags
 - heading tags
 - button tags
+- google fonts
 
 The CSS styles I used are:
 1. Background image- animated image(webp fomart)
